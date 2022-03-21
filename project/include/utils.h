@@ -7,7 +7,7 @@
 #include <math.h>
 // добавляем все нужные библиотеки
 
-// TODO(Kosan4kk): Implement `power of` function
+// TODO(Runkass): Implement `power of` function
 // проинициализировать функции
 
 size_t timer_from(int from);
