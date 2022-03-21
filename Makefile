@@ -24,6 +24,7 @@ check:
 	./run_linters.sh
 
 test: $(TARGET)
+	chmod 700 run_linters.sh
 	./btests/run.sh $(TARGET)
 
 clean:
